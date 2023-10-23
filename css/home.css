@@ -1,0 +1,21 @@
+body{
+  background-image: url(../media/codioful.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.body{
+  margin:0;
+  font-family:; 
+}
+.menu{
+  background-color: black;
+  border: 3px outset white;
+  text-align: center;
+}
+.menucolor{
+ color:white ;
+}
+.contactfont{
+ color:white ;
+ font-weight: bolder;
+}
